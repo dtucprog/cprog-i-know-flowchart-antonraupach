@@ -1,0 +1,7 @@
+first, record what day of the week is it by numbering it, where monday = 0 and sunday = 6
+then, record wether it is the holidays or not.
+Then, if it is the holidays, you have the day off. 
+If it is not the holidays, check if it is weekend by checking if the day_of_the_week is below the number for saturday.
+If it is, you have the day off
+if it is not, then check if it is tuesday, by checking if day_of_the_week is equal to 1, the number for tuesday. if it is, you have the day off
+finally if it isn't you have to go to dtu.
